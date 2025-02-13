@@ -1,0 +1,994 @@
+{
+  "18": {
+    "Nome": "Federico Cima",
+    "Sesso": "M"
+  },
+  "24": {
+    "Nome": "Dario Sterzi",
+    "Sesso": "M"
+  },
+  "25": {
+    "Nome": "Michele Castegini",
+    "Sesso": "M"
+  },
+  "26": {
+    "Nome": "Pier Federico Pacchiarotti",
+    "Sesso": "M"
+  },
+  "27": {
+    "Nome": "Marco Adriano Magno",
+    "Sesso": "M"
+  },
+  "28": {
+    "Nome": "Lorenzo Bardone",
+    "Sesso": "M"
+  },
+  "29": {
+    "Nome": "Giorgio Mentasti",
+    "Sesso": "M"
+  },
+  "30": {
+    "Nome": "Antonio Conte",
+    "Sesso": "M"
+  },
+  "31": {
+    "Nome": "Simone Pelizzola",
+    "Sesso": "M"
+  },
+  "32": {
+    "Nome": "Umberto Maria Tomasini",
+    "Sesso": "M"
+  },
+  "33": {
+    "Nome": "Alessandro Fiorindo",
+    "Sesso": "M"
+  },
+  "34": {
+    "Nome": "Giorgio Navone",
+    "Sesso": "M"
+  },
+  "36": {
+    "Nome": "Alberto Bassi",
+    "Sesso": "M"
+  },
+  "37": {
+    "Nome": "Gabriele Manganelli",
+    "Sesso": "M"
+  },
+  "39": {
+    "Nome": "Francesco Gentile",
+    "Sesso": "M"
+  },
+  "40": {
+    "Nome": "Antonio Cusano",
+    "Sesso": "M"
+  },
+  "41": {
+    "Nome": "Alberto Facheris",
+    "Sesso": "M"
+  },
+  "42": {
+    "Nome": "Alessandro Lovo",
+    "Sesso": "M"
+  },
+  "43": {
+    "Nome": "Raffaele di Vora",
+    "Sesso": "M"
+  },
+  "44": {
+    "Nome": "Luca Terenzi",
+    "Sesso": "M"
+  },
+  "45": {
+    "Nome": "Giacomo Marcolin",
+    "Sesso": "M"
+  },
+  "47": {
+    "Nome": "Cesare Mattiroli",
+    "Sesso": "M"
+  },
+  "48": {
+    "Nome": "Matteo Costanzi",
+    "Sesso": "M"
+  },
+  "49": {
+    "Nome": "Matteo Zappia",
+    "Sesso": "M"
+  },
+  "50": {
+    "Nome": "Davide Sartor",
+    "Sesso": "M"
+  },
+  "51": {
+    "Nome": "Paolo Pellizzoni",
+    "Sesso": "M"
+  },
+  "52": {
+    "Nome": "Gianmarco Tuzzolino",
+    "Sesso": "M"
+  },
+  "53": {
+    "Nome": "German Carboni",
+    "Sesso": "M"
+  },
+  "54": {
+    "Nome": "Francesco Pierini",
+    "Sesso": "M"
+  },
+  "55": {
+    "Nome": "Andrea Frizzera",
+    "Sesso": "M"
+  },
+  "56": {
+    "Nome": "Gabriele Sgroi",
+    "Sesso": "M"
+  },
+  "57": {
+    "Nome": "Luca Nalon",
+    "Sesso": "M"
+  },
+  "64": {
+    "Nome": "Giovanni Ferrari",
+    "Sesso": "M"
+  },
+  "65": {
+    "Nome": "Enrico Marchetto",
+    "Sesso": "M"
+  },
+  "66": {
+    "Nome": "Federico Baù",
+    "Sesso": "M"
+  },
+  "67": {
+    "Nome": "Davide Bizzaro",
+    "Sesso": "M"
+  },
+  "68": {
+    "Nome": "Davide Danesi",
+    "Sesso": "M"
+  },
+  "69": {
+    "Nome": "Camilla Casamento Tumeo",
+    "Sesso": "F"
+  },
+  "70": {
+    "Nome": "Andrea Boido",
+    "Sesso": "M"
+  },
+  "71": {
+    "Nome": "Matteo Zatti",
+    "Sesso": "M"
+  },
+  "72": {
+    "Nome": "Davy Marguerettaz",
+    "Sesso": "M"
+  },
+  "74": {
+    "Nome": "Federica Cecchetto",
+    "Sesso": "F"
+  },
+  "76": {
+    "Nome": "Gianluca Maguolo",
+    "Sesso": "M"
+  },
+  "77": {
+    "Nome": "Marco Giustetto",
+    "Sesso": "M"
+  },
+  "78": {
+    "Nome": "Andrea Ghilardi",
+    "Sesso": "M"
+  },
+  "79": {
+    "Nome": "Alessandro Oberti",
+    "Sesso": "M"
+  },
+  "80": {
+    "Nome": "Simone Masserini",
+    "Sesso": "M"
+  },
+  "81": {
+    "Nome": "Giovanni Donghi",
+    "Sesso": "M"
+  },
+  "82": {
+    "Nome": "Alessandro Vici",
+    "Sesso": "M"
+  },
+  "83": {
+    "Nome": "Vittoria Ricciuti",
+    "Sesso": "F"
+  },
+  "84": {
+    "Nome": "Enrico Aloisi",
+    "Sesso": "M"
+  },
+  "85": {
+    "Nome": "Alessandro Rosa",
+    "Sesso": "M"
+  },
+  "88": {
+    "Nome": "Michele De Rocco",
+    "Sesso": "M"
+  },
+  "89": {
+    "Nome": "Riccardo Sanson",
+    "Sesso": "M"
+  },
+  "90": {
+    "Nome": "Nicholas Vivenzi",
+    "Sesso": "M"
+  },
+  "91": {
+    "Nome": "Paolo Prenassi",
+    "Sesso": "M"
+  },
+  "92": {
+    "Nome": "Damiano Tietto",
+    "Sesso": "M"
+  },
+  "94": {
+    "Nome": "Andrea Marchetti",
+    "Sesso": "M"
+  },
+  "95": {
+    "Nome": "Elena Crocicchia",
+    "Sesso": "F"
+  },
+  "96": {
+    "Nome": "Andrea Rogolino",
+    "Sesso": "M"
+  },
+  "97": {
+    "Nome": "Giuseppe di Fabio",
+    "Sesso": "M"
+  },
+  "98": {
+    "Nome": "Marco Zagaria",
+    "Sesso": "M"
+  },
+  "99": {
+    "Nome": "Massimiliano Viola",
+    "Sesso": "M"
+  },
+  "100": {
+    "Nome": "Luca Marchesini",
+    "Sesso": "M"
+  },
+  "103": {
+    "Nome": "Federico Pavone",
+    "Sesso": "M"
+  },
+  "104": {
+    "Nome": "Andrea Pizzolato",
+    "Sesso": "M"
+  },
+  "105": {
+    "Nome": "Alessandro Rezzi",
+    "Sesso": "M"
+  },
+  "106": {
+    "Nome": "Sebastiano Bravi",
+    "Sesso": "M"
+  },
+  "107": {
+    "Nome": "Andrea Lanza",
+    "Sesso": "M"
+  },
+  "108": {
+    "Nome": "Riccardo Alessandro Grimaldi",
+    "Sesso": "M"
+  },
+  "109": {
+    "Nome": "Maria Laura",
+    "Sesso": "F"
+  },
+  "110": {
+    "Nome": "Elisa Ferrero",
+    "Sesso": "F"
+  },
+  "111": {
+    "Nome": "Alberto Antonello",
+    "Sesso": "M"
+  },
+  "112": {
+    "Nome": "Lorenzo Di Simone",
+    "Sesso": "M"
+  },
+  "113": {
+    "Nome": "Cesare Maria Balzani",
+    "Sesso": "M"
+  },
+  "114": {
+    "Nome": "Francesco Sitta",
+    "Sesso": "M"
+  },
+  "115": {
+    "Nome": "Matteo Paradiso",
+    "Sesso": "M"
+  },
+  "116": {
+    "Nome": "Giovanni Mecenero",
+    "Sesso": "M"
+  },
+  "117": {
+    "Nome": "Alessandro Baravelli",
+    "Sesso": "M"
+  },
+  "118": {
+    "Nome": "Giulio Dainelli",
+    "Sesso": "M"
+  },
+  "119": {
+    "Nome": "Matteo Barbon",
+    "Sesso": "M"
+  },
+  "120": {
+    "Nome": "Vincenzo Sorrentino",
+    "Sesso": "M"
+  },
+  "121": {
+    "Nome": "Irene Maniglia",
+    "Sesso": "F"
+  },
+  "122": {
+    "Nome": "Gioia Sacchi",
+    "Sesso": "F"
+  },
+  "123": {
+    "Nome": "Leonardo Franchi",
+    "Sesso": "M"
+  },
+  "124": {
+    "Nome": "Alessandro Morescalchi",
+    "Sesso": "M"
+  },
+  "125": {
+    "Nome": "Francesco Salmaso",
+    "Sesso": "M"
+  },
+  "126": {
+    "Nome": "Alberto Gervani",
+    "Sesso": "M"
+  },
+  "127": {
+    "Nome": "Giulia Brunori",
+    "Sesso": "F"
+  },
+  "128": {
+    "Nome": "Luigi Steccanella",
+    "Sesso": "M"
+  },
+  "129": {
+    "Nome": "Filippo Pagotto",
+    "Sesso": "M"
+  },
+  "130": {
+    "Nome": "Nicolò Berdin",
+    "Sesso": "M"
+  },
+  "131": {
+    "Nome": "Qiuyang ZOU",
+    "Sesso": "M"
+  },
+  "132": {
+    "Nome": "Andrea Sainaghi",
+    "Sesso": "M"
+  },
+  "133": {
+    "Nome": "Chiara Fantin",
+    "Sesso": "F"
+  },
+  "134": {
+    "Nome": "Luca Islami",
+    "Sesso": "M"
+  },
+  "135": {
+    "Nome": "Giacomo Polignano",
+    "Sesso": "M"
+  },
+  "136": {
+    "Nome": "Michele Maserati",
+    "Sesso": "M"
+  },
+  "137": {
+    "Nome": "Emanuele Prati",
+    "Sesso": "M"
+  },
+  "138": {
+    "Nome": "Matteo Trevisan",
+    "Sesso": "M"
+  },
+  "139": {
+    "Nome": "Francesco Peroni",
+    "Sesso": "M"
+  },
+  "140": {
+    "Nome": "Alessandro Corso",
+    "Sesso": "M"
+  },
+  "141": {
+    "Nome": "Federico Giannini",
+    "Sesso": "M"
+  },
+  "142": {
+    "Nome": "Bernardo Ardini",
+    "Sesso": "M"
+  },
+  "143": {
+    "Nome": "Lorenzo Callegaro",
+    "Sesso": "M"
+  },
+  "144": {
+    "Nome": "Lorenzo Catani",
+    "Sesso": "M"
+  },
+  "145": {
+    "Nome": "Chiara Garabello",
+    "Sesso": "F"
+  },
+  "146": {
+    "Nome": "Giovanni Gaio",
+    "Sesso": "M"
+  },
+  "147": {
+    "Nome": "Giorgio Baglioni",
+    "Sesso": "M"
+  },
+  "148": {
+    "Nome": "Jacopo Valtulina",
+    "Sesso": "M"
+  },
+  "149": {
+    "Nome": "Andrea Nalon",
+    "Sesso": "M"
+  },
+  "150": {
+    "Nome": "Naoufel Outmani",
+    "Sesso": "M"
+  },
+  "151": {
+    "Nome": "Ronaldo Camacho",
+    "Sesso": "M"
+  },
+  "152": {
+    "Nome": "Eddie Rossi",
+    "Sesso": "M"
+  },
+  "153": {
+    "Nome": "Martina Tagliente",
+    "Sesso": "F"
+  },
+  "154": {
+    "Nome": "Gaia Bordoni",
+    "Sesso": "F"
+  },
+  "155": {
+    "Nome": "Clara Favretti",
+    "Sesso": "F"
+  },
+  "156": {
+    "Nome": "Rebecca Cortini",
+    "Sesso": "F"
+  },
+  "157": {
+    "Nome": "Alessandro Valota",
+    "Sesso": "M"
+  },
+  "160": {
+    "Nome": "Francesco Fantin",
+    "Sesso": "M"
+  },
+  "161": {
+    "Nome": "Cecilia Moriggi",
+    "Sesso": "F"
+  },
+  "162": {
+    "Nome": "Riccardo Calisti",
+    "Sesso": "M"
+  },
+  "163": {
+    "Nome": "Melania Braghini",
+    "Sesso": "F"
+  },
+  "164": {
+    "Nome": "Chiara Novelli",
+    "Sesso": "F"
+  },
+  "165": {
+    "Nome": "Guixia Hu",
+    "Sesso": "F"
+  },
+  "166": {
+    "Nome": "Giacomo Vizzari",
+    "Sesso": "M"
+  },
+  "167": {
+    "Nome": "Arianna Fontanari",
+    "Sesso": "F"
+  },
+  "168": {
+    "Nome": "Tiziana Eugenelo",
+    "Sesso": "F"
+  },
+  "169": {
+    "Nome": "Pietro Marinoni",
+    "Sesso": "M"
+  },
+  "170": {
+    "Nome": "Valentino Badalucco",
+    "Sesso": "M"
+  },
+  "171": {
+    "Nome": "Tommaso Coppelli",
+    "Sesso": "M"
+  },
+  "172": {
+    "Nome": "Luca Castenetto",
+    "Sesso": "M"
+  },
+  "173": {
+    "Nome": "Alice Magnanini",
+    "Sesso": "M"
+  },
+  "174": {
+    "Nome": "Chiara Oliveri",
+    "Sesso": "F"
+  },
+  "175": {
+    "Nome": "Elena Cristea",
+    "Sesso": "F"
+  },
+  "176": {
+    "Nome": "Sergio Mari",
+    "Sesso": "M"
+  },
+  "177": {
+    "Nome": "Pietro Marchesani",
+    "Sesso": "M"
+  },
+  "178": {
+    "Nome": "Maria Karabatsos",
+    "Sesso": "F"
+  },
+  "179": {
+    "Nome": "Daniele Bugatti",
+    "Sesso": "M"
+  },
+  "180": {
+    "Nome": "Angelo Giocoli",
+    "Sesso": "M"
+  },
+  "181": {
+    "Nome": "Fabio Cimino",
+    "Sesso": "M"
+  },
+  "182": {
+    "Nome": "Davide Caucchiolo",
+    "Sesso": "M"
+  },
+  "183": {
+    "Nome": "Wladimiro PiPPo Gradi",
+    "Sesso": "M"
+  },
+  "185": {
+    "Nome": "Davide Sartore",
+    "Sesso": "M"
+  },
+  "186": {
+    "Nome": "Valerio Cipriani",
+    "Sesso": "M"
+  },
+  "188": {
+    "Nome": "Emanuele Cattaneo",
+    "Sesso": "M"
+  },
+  "189": {
+    "Nome": "Nicolò Mendo",
+    "Sesso": "M"
+  },
+  "190": {
+    "Nome": "Yun Zhang",
+    "Sesso": "M"
+  },
+  "192": {
+    "Nome": "Vittorio Magnaguagno",
+    "Sesso": "M"
+  },
+  "193": {
+    "Nome": "Edoardo Bordon",
+    "Sesso": "M"
+  },
+  "194": {
+    "Nome": "Nicola Cecchini",
+    "Sesso": "F"
+  },
+  "196": {
+    "Nome": "Desirée Failla",
+    "Sesso": "M"
+  },
+  "197": {
+    "Nome": "Lavinia Pizzuti",
+    "Sesso": "F"
+  },
+  "198": {
+    "Nome": "Mattia Aldegheri",
+    "Sesso": "F"
+  },
+  "200": {
+    "Nome": "Marco De Marzi",
+    "Sesso": "M"
+  },
+  "205": {
+    "Nome": "Danilo Amedei",
+    "Sesso": "M"
+  },
+  "206": {
+    "Nome": "Carlo Claudani",
+    "Sesso": "M"
+  },
+  "207": {
+    "Nome": "Giovanni Caiolo",
+    "Sesso": "M"
+  },
+  "208": {
+    "Nome": "Tommaso Dossi",
+    "Sesso": "M"
+  },
+  "209": {
+    "Nome": "Giacomo Calogero",
+    "Sesso": "M"
+  },
+  "210": {
+    "Nome": "Massimo Gasparini",
+    "Sesso": "M"
+  },
+  "211": {
+    "Nome": "Andrea Pozzi",
+    "Sesso": "M"
+  },
+  "212": {
+    "Nome": "Giorgia Iatosti",
+    "Sesso": "F"
+  },
+  "213": {
+    "Nome": "Silvia Ragni",
+    "Sesso": "F"
+  },
+  "214": {
+    "Nome": "Lorenzo Hossain",
+    "Sesso": "M"
+  },
+  "215": {
+    "Nome": "Leonardo Portolani Sgargi",
+    "Sesso": "M"
+  },
+  "216": {
+    "Nome": "Giovanni Gerardo",
+    "Sesso": "M"
+  },
+  "217": {
+    "Nome": "Deleted user",
+    "Sesso": "M"
+  },
+  "218": {
+    "Nome": "Lorenzo Cafiero",
+    "Sesso": "M"
+  },
+  "219": {
+    "Nome": "Alice Marchetti",
+    "Sesso": "F"
+  },
+  "220": {
+    "Nome": "Alice Drera",
+    "Sesso": "F"
+  },
+  "221": {
+    "Nome": "Chiara Mazzuccato",
+    "Sesso": "F"
+  },
+  "222": {
+    "Nome": "Giulio Verzeletti",
+    "Sesso": "M"
+  },
+  "223": {
+    "Nome": "Daniele De Pietri",
+    "Sesso": "M"
+  },
+  "224": {
+    "Nome": "Elena Ghilardi",
+    "Sesso": "F"
+  },
+  "225": {
+    "Nome": "Simone Fisichella",
+    "Sesso": "M"
+  },
+  "227": {
+    "Nome": "Egle Babolin",
+    "Sesso": "M"
+  },
+  "228": {
+    "Nome": "Camilla Toniolo",
+    "Sesso": "F"
+  },
+  "229": {
+    "Nome": "Elia Siviero",
+    "Sesso": "M"
+  },
+  "230": {
+    "Nome": "Pietro Boschi",
+    "Sesso": "M"
+  },
+  "231": {
+    "Nome": "Irene Bartalini",
+    "Sesso": "F"
+  },
+  "232": {
+    "Nome": "Stefano Casadio",
+    "Sesso": "M"
+  },
+  "233": {
+    "Nome": "Emilia Cipriano",
+    "Sesso": "F"
+  },
+  "235": {
+    "Nome": "Lidia Destro",
+    "Sesso": "F"
+  },
+  "236": {
+    "Nome": "Sofia Gentile",
+    "Sesso": "F"
+  },
+  "237": {
+    "Nome": "Pietro Ongaro",
+    "Sesso": "M"
+  },
+  "238": {
+    "Nome": "Cecilia Svegliado",
+    "Sesso": "F"
+  },
+  "239": {
+    "Nome": "Chiara Coianiz",
+    "Sesso": "F"
+  },
+  "240": {
+    "Nome": "Marco Locatelli",
+    "Sesso": "M"
+  },
+  "241": {
+    "Nome": "Sara Passudetti",
+    "Sesso": "F"
+  },
+  "242": {
+    "Nome": "Giulia Piaggio",
+    "Sesso": "F"
+  },
+  "243": {
+    "Nome": "Lorenzo Cattani",
+    "Sesso": "M"
+  },
+  "245": {
+    "Nome": "Francesca Ciocchi",
+    "Sesso": "F"
+  },
+  "246": {
+    "Nome": "Elia Zarantonello",
+    "Sesso": "M"
+  },
+  "247": {
+    "Nome": "Davide Crudele",
+    "Sesso": "M"
+  },
+  "249": {
+    "Nome": "Andrea Grossi",
+    "Sesso": "M"
+  },
+  "250": {
+    "Nome": "Andrea Bidoia",
+    "Sesso": "M"
+  },
+  "251": {
+    "Nome": "Gabriele Belardinelli",
+    "Sesso": "M"
+  },
+  "252": {
+    "Nome": "Matteo Gori",
+    "Sesso": "M"
+  },
+  "253": {
+    "Nome": "Leonardo Matano",
+    "Sesso": "M"
+  },
+  "254": {
+    "Nome": "Costanza Pampena",
+    "Sesso": "F"
+  },
+  "255": {
+    "Nome": "Luca Boldrin",
+    "Sesso": "M"
+  },
+  "256": {
+    "Nome": "Maria Vittoria Chimetto",
+    "Sesso": "F"
+  },
+  "257": {
+    "Nome": "Evita Guerra",
+    "Sesso": "F"
+  },
+  "258": {
+    "Nome": "Matteo Gianolla",
+    "Sesso": "M"
+  },
+  "259": {
+    "Nome": "Gaia Pizzato",
+    "Sesso": "F"
+  },
+  "260": {
+    "Nome": "Sofia Gonfiantini",
+    "Sesso": "F"
+  },
+  "261": {
+    "Nome": "Edoardo Langé",
+    "Sesso": "M"
+  },
+  "262": {
+    "Nome": "Riccardo Cescatti",
+    "Sesso": "M"
+  },
+  "263": {
+    "Nome": "Ilaria Santangelo",
+    "Sesso": "F"
+  },
+  "264": {
+    "Nome": "Margherita Fondrieschi",
+    "Sesso": "F"
+  },
+  "265": {
+    "Nome": "Emma Negri",
+    "Sesso": "F"
+  },
+  "266": {
+    "Nome": "Lorenzo Weiss",
+    "Sesso": "M"
+  },
+  "267": {
+    "Nome": "Matteo Darmian",
+    "Sesso": "M"
+  },
+  "268": {
+    "Nome": "Matteo Galvagni",
+    "Sesso": "M"
+  },
+  "269": {
+    "Nome": "Francesco Gherardi",
+    "Sesso": "M"
+  },
+  "270": {
+    "Nome": "Alessandro Morciano",
+    "Sesso": "M"
+  },
+  "271": {
+    "Nome": "Samuele Libero Marino",
+    "Sesso": "M"
+  },
+  "272": {
+    "Nome": "Demetrio Campolo",
+    "Sesso": "M"
+  },
+  "273": {
+    "Nome": "Niki Pertot",
+    "Sesso": "M"
+  },
+  "274": {
+    "Nome": "Paolo Strenghetto",
+    "Sesso": "M"
+  },
+  "275": {
+    "Nome": "Edoardo Salmasi",
+    "Sesso": "M"
+  },
+  "276": {
+    "Nome": "Tobia Bizzaro",
+    "Sesso": "F"
+  },
+  "277": {
+    "Nome": "Tommaso Moscatelli",
+    "Sesso": "M"
+  },
+  "278": {
+    "Nome": "Raffaele Buonincontri",
+    "Sesso": "M"
+  },
+  "279": {
+    "Nome": "Pierfrancesco Veronesi",
+    "Sesso": "M"
+  },
+  "280": {
+    "Nome": "Stefano Di Iulio",
+    "Sesso": "M"
+  },
+  "281": {
+    "Nome": "Samuele Marino",
+    "Sesso": "M"
+  },
+  "282": {
+    "Nome": "Andrea Lico",
+    "Sesso": "M"
+  },
+  "284": {
+    "Nome": "Danilo Acquaviva",
+    "Sesso": "M"
+  },
+  "286": {
+    "Nome": "Matteo Baldelli",
+    "Sesso": "M"
+  },
+  "287": {
+    "Nome": "Annapatata",
+    "Sesso": "F"
+  },
+  "288": {
+    "Nome": "Francesco Tangredi",
+    "Sesso": "M"
+  },
+  "289": {
+    "Nome": "Lorenzo Rizzi",
+    "Sesso": "M"
+  },
+  "290": {
+    "Nome": "Lorenzo Paolin",
+    "Sesso": "M"
+  },
+  "291": {
+    "Nome": "Francesco Vecchiato",
+    "Sesso": "M"
+  },
+  "292": {
+    "Nome": "Mario Mascolo",
+    "Sesso": "M"
+  },
+  "293": {
+    "Nome": "Daniele Manessi",
+    "Sesso": "M"
+  },
+  "294": {
+    "Nome": "Chiara Mascitelli",
+    "Sesso": "F"
+  },
+  "297": {
+    "Nome": "Susanna Luterotti",
+    "Sesso": "F"
+  },
+  "298": {
+    "Nome": "Nicola Musoni",
+    "Sesso": "M"
+  },
+  "299": {
+    "Nome": "Chiara Mascitelli",
+    "Sesso": "F"
+  },
+  "300": {
+    "Nome": "Milica Vdovic",
+    "Sesso": "F"
+  },
+  "301": {
+    "Nome": "Antonio Eugenelo",
+    "Sesso": "M"
+  },
+  "302": {
+    "Nome": "Ritu Chowdhury",
+    "Sesso": "M"
+  },
+  "303": {
+    "Nome": "Francesco Bonelli",
+    "Sesso": "M"
+  },
+  "304": {
+    "Nome": "Marco Altamura",
+    "Sesso": "M"
+  },
+  "305": {
+    "Nome": "Vittoria Lazzeroni",
+    "Sesso": "F"
+  }
+}
