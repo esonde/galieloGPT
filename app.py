@@ -13,9 +13,6 @@ from tensorflow.keras.utils import get_custom_objects
 # Imposta una grafica moderna
 st.set_page_config(page_title="Predizione Partita", layout="wide")
 
-# Abilita la mixed precision (se supportato dalla GPU)
-tf.keras.mixed_precision.set_global_policy('mixed_float16')
-st.write("Mixed precision enabled:", tf.keras.mixed_precision.global_policy())
 
 ###############################################
 # Definizione e registrazione del custom layer "CastLayer"
