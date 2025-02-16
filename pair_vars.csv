@@ -1,0 +1,865 @@
+player1_id,player1_Nome,player2_id,player2_Nome,Sinergia
+18,Federico Cima,29,Giorgio Mentasti,-111.858469953837
+18,Federico Cima,31,Simone Pelizzola,-142.5719967554289
+18,Federico Cima,33,Alessandro Fiorindo,-64.44506891416898
+18,Federico Cima,36,Alberto Bassi,-51.054238915516905
+18,Federico Cima,37,Gabriele Manganelli,-148.2724554517084
+18,Federico Cima,49,Matteo Zappia,2.8812135561385843
+18,Federico Cima,77,Marco Giustetto,-1.564420680028428
+18,Federico Cima,78,Andrea Ghilardi,92.53290880044909
+18,Federico Cima,79,Alessandro Oberti,-187.24231116503262
+18,Federico Cima,82,Alessandro Vici,-139.2404880171465
+18,Federico Cima,84,Enrico Aloisi,-54.80053444034185
+18,Federico Cima,85,Alessandro Rosa,-5.702079701288435
+18,Federico Cima,88,Michele De Rocco,147.71954074376868
+18,Federico Cima,92,Damiano Tietto,-253.36153887547002
+18,Federico Cima,94,Andrea Marchetti,-10.02992550847139
+18,Federico Cima,97,Giuseppe di Fabio,43.6272593241867
+18,Federico Cima,99,Massimiliano Viola,-23.117547702161193
+18,Federico Cima,100,Luca Marchesini,-103.77421585375224
+18,Federico Cima,104,Andrea Pizzolato,-66.3360434666384
+18,Federico Cima,105,Alessandro Rezzi,-180.41357403740793
+18,Federico Cima,113,Cesare Maria Balzani,26.50382962377612
+18,Federico Cima,116,Giovanni Mecenero,-58.41774454777482
+18,Federico Cima,118,Giulio Dainelli,-358.46677507209296
+18,Federico Cima,119,Matteo Barbon,57.215303979311564
+18,Federico Cima,125,Francesco Salmaso,-3.408434613423069
+18,Federico Cima,145,Chiara Garabello,-75.42375911457084
+18,Federico Cima,149,Andrea Nalon,-204.4891876302858
+18,Federico Cima,215,Leonardo Portolani Sgargi,14.69292793637992
+27,Marco Adriano Magno,29,Giorgio Mentasti,-47.07830837284391
+27,Marco Adriano Magno,31,Simone Pelizzola,-241.50363353233223
+27,Marco Adriano Magno,33,Alessandro Fiorindo,-180.50901874285051
+27,Marco Adriano Magno,34,Giorgio Navone,-88.49396184515089
+27,Marco Adriano Magno,36,Alberto Bassi,50.89549234540499
+27,Marco Adriano Magno,37,Gabriele Manganelli,175.3885046226811
+27,Marco Adriano Magno,78,Andrea Ghilardi,-77.28369209604382
+27,Marco Adriano Magno,79,Alessandro Oberti,-176.08004385637764
+27,Marco Adriano Magno,82,Alessandro Vici,-169.0283315162362
+29,Giorgio Mentasti,18,Federico Cima,14.033806013419069
+29,Giorgio Mentasti,31,Simone Pelizzola,-191.7743409400289
+29,Giorgio Mentasti,33,Alessandro Fiorindo,-1.0546882396186739
+29,Giorgio Mentasti,36,Alberto Bassi,27.307694887984233
+29,Giorgio Mentasti,57,Luca Nalon,17.907792889829757
+29,Giorgio Mentasti,77,Marco Giustetto,-169.44186127819512
+29,Giorgio Mentasti,78,Andrea Ghilardi,62.26754681962079
+29,Giorgio Mentasti,79,Alessandro Oberti,-118.56251498004977
+29,Giorgio Mentasti,82,Alessandro Vici,-154.38488090226275
+29,Giorgio Mentasti,84,Enrico Aloisi,-143.4716977187767
+29,Giorgio Mentasti,85,Alessandro Rosa,-15.894337002897574
+29,Giorgio Mentasti,92,Damiano Tietto,-94.05796985237868
+29,Giorgio Mentasti,104,Andrea Pizzolato,-17.12590897233498
+29,Giorgio Mentasti,119,Matteo Barbon,-83.58834536318457
+29,Giorgio Mentasti,125,Francesco Salmaso,-70.99631337233275
+31,Simone Pelizzola,18,Federico Cima,149.77972806852975
+31,Simone Pelizzola,79,Alessandro Oberti,-14.328041015812019
+31,Simone Pelizzola,82,Alessandro Vici,-93.79215347414294
+33,Alessandro Fiorindo,31,Simone Pelizzola,-198.16063999160232
+33,Alessandro Fiorindo,82,Alessandro Vici,-46.86719441457235
+34,Giorgio Navone,31,Simone Pelizzola,-234.30749383010834
+34,Giorgio Navone,33,Alessandro Fiorindo,-121.31120089226506
+34,Giorgio Navone,36,Alberto Bassi,52.18319893863897
+34,Giorgio Navone,77,Marco Giustetto,-40.018722071384175
+34,Giorgio Navone,78,Andrea Ghilardi,91.13890761132635
+34,Giorgio Navone,82,Alessandro Vici,-109.68233075903291
+36,Alberto Bassi,18,Federico Cima,-30.2784668349257
+36,Alberto Bassi,27,Marco Adriano Magno,-148.90322444231685
+36,Alberto Bassi,29,Giorgio Mentasti,-40.34873084119099
+36,Alberto Bassi,31,Simone Pelizzola,-204.12150146052997
+36,Alberto Bassi,33,Alessandro Fiorindo,-161.04000904014228
+36,Alberto Bassi,34,Giorgio Navone,-5.286951032535015
+36,Alberto Bassi,37,Gabriele Manganelli,93.51251353571561
+36,Alberto Bassi,49,Matteo Zappia,71.07678845934701
+36,Alberto Bassi,77,Marco Giustetto,-78.59811284088417
+36,Alberto Bassi,78,Andrea Ghilardi,43.115587803671595
+36,Alberto Bassi,79,Alessandro Oberti,-72.30334204095125
+36,Alberto Bassi,82,Alessandro Vici,-115.29670121735555
+36,Alberto Bassi,84,Enrico Aloisi,-74.83489559534829
+36,Alberto Bassi,85,Alessandro Rosa,-148.35526959406155
+36,Alberto Bassi,97,Giuseppe di Fabio,224.39830880384903
+37,Gabriele Manganelli,36,Alberto Bassi,80.74738379570645
+37,Gabriele Manganelli,49,Matteo Zappia,39.6975394182748
+37,Gabriele Manganelli,77,Marco Giustetto,-161.99816586798366
+37,Gabriele Manganelli,82,Alessandro Vici,-43.088871512287525
+37,Gabriele Manganelli,84,Enrico Aloisi,-56.583523997748166
+37,Gabriele Manganelli,99,Massimiliano Viola,-215.15535831409585
+37,Gabriele Manganelli,100,Luca Marchesini,-104.19847409914122
+40,Antonio Cusano,31,Simone Pelizzola,-195.6739292116359
+40,Antonio Cusano,36,Alberto Bassi,-24.240505075684283
+40,Antonio Cusano,64,Giovanni Ferrari,27.0732605566558
+40,Antonio Cusano,79,Alessandro Oberti,20.62328352826175
+40,Antonio Cusano,82,Alessandro Vici,-38.74305210491405
+41,Alberto Facheris,29,Giorgio Mentasti,151.79907113531598
+41,Alberto Facheris,31,Simone Pelizzola,-81.56349430106827
+43,Raffaele di Vora,33,Alessandro Fiorindo,-173.35681299660055
+49,Matteo Zappia,37,Gabriele Manganelli,196.94100503600032
+52,Gianmarco Tuzzolino,31,Simone Pelizzola,80.14309902675235
+56,Gabriele Sgroi,33,Alessandro Fiorindo,-70.95781760230584
+68,Davide Danesi,31,Simone Pelizzola,-79.12651462872262
+77,Marco Giustetto,78,Andrea Ghilardi,281.5379912201041
+77,Marco Giustetto,79,Alessandro Oberti,-37.86098408898024
+77,Marco Giustetto,82,Alessandro Vici,30.25959368443519
+77,Marco Giustetto,84,Enrico Aloisi,76.15291758786587
+77,Marco Giustetto,85,Alessandro Rosa,198.70074804724376
+77,Marco Giustetto,100,Luca Marchesini,64.71954394340158
+77,Marco Giustetto,104,Andrea Pizzolato,107.05947734513776
+77,Marco Giustetto,105,Alessandro Rezzi,171.5624415947543
+77,Marco Giustetto,116,Giovanni Mecenero,-95.91562733176544
+77,Marco Giustetto,125,Francesco Salmaso,39.261812682967545
+78,Andrea Ghilardi,18,Federico Cima,98.77473980264179
+78,Andrea Ghilardi,29,Giorgio Mentasti,-141.58093908197753
+78,Andrea Ghilardi,31,Simone Pelizzola,-158.50483964787534
+78,Andrea Ghilardi,33,Alessandro Fiorindo,128.08760655513643
+78,Andrea Ghilardi,36,Alberto Bassi,11.425902354879494
+78,Andrea Ghilardi,77,Marco Giustetto,-115.07477185954771
+78,Andrea Ghilardi,79,Alessandro Oberti,-64.70803044516023
+78,Andrea Ghilardi,82,Alessandro Vici,-144.09308537703006
+78,Andrea Ghilardi,84,Enrico Aloisi,6.968665824368271
+78,Andrea Ghilardi,85,Alessandro Rosa,-50.97028469295395
+78,Andrea Ghilardi,88,Michele De Rocco,64.43372351084932
+78,Andrea Ghilardi,92,Damiano Tietto,-51.295262755911615
+78,Andrea Ghilardi,94,Andrea Marchetti,-27.576069703475884
+78,Andrea Ghilardi,99,Massimiliano Viola,148.0609030049825
+78,Andrea Ghilardi,100,Luca Marchesini,-156.6612091779866
+78,Andrea Ghilardi,104,Andrea Pizzolato,-133.8990833858733
+78,Andrea Ghilardi,105,Alessandro Rezzi,-71.5099244698396
+78,Andrea Ghilardi,113,Cesare Maria Balzani,13.583465023965964
+78,Andrea Ghilardi,116,Giovanni Mecenero,32.37605422702493
+78,Andrea Ghilardi,118,Giulio Dainelli,-79.94080306378795
+78,Andrea Ghilardi,125,Francesco Salmaso,-112.16863686811593
+78,Andrea Ghilardi,133,Chiara Fantin,-215.2249428027571
+78,Andrea Ghilardi,145,Chiara Garabello,-129.05658120949212
+78,Andrea Ghilardi,149,Andrea Nalon,6.218413228974984
+78,Andrea Ghilardi,168,Tiziana Eugenelo,-38.28582287045418
+78,Andrea Ghilardi,170,Valentino Badalucco,5.766820963035807
+78,Andrea Ghilardi,185,Davide Sartore,-126.85524651000455
+79,Alessandro Oberti,18,Federico Cima,159.1624364089561
+79,Alessandro Oberti,31,Simone Pelizzola,-238.258193591454
+79,Alessandro Oberti,36,Alberto Bassi,-31.12315546195081
+79,Alessandro Oberti,77,Marco Giustetto,-80.8147459744992
+79,Alessandro Oberti,78,Andrea Ghilardi,12.937136945567659
+79,Alessandro Oberti,80,Simone Masserini,-48.86252566355819
+79,Alessandro Oberti,82,Alessandro Vici,-166.64568623921696
+79,Alessandro Oberti,84,Enrico Aloisi,-44.300849875130986
+79,Alessandro Oberti,85,Alessandro Rosa,-56.007690949237855
+79,Alessandro Oberti,88,Michele De Rocco,-84.17473390765227
+79,Alessandro Oberti,92,Damiano Tietto,32.11406418361934
+79,Alessandro Oberti,94,Andrea Marchetti,123.45976697560768
+79,Alessandro Oberti,99,Massimiliano Viola,-70.10566497073137
+79,Alessandro Oberti,100,Luca Marchesini,-59.43246563922591
+79,Alessandro Oberti,104,Andrea Pizzolato,1.912736513337952
+79,Alessandro Oberti,105,Alessandro Rezzi,73.63982485218054
+79,Alessandro Oberti,116,Giovanni Mecenero,-261.3691194464938
+79,Alessandro Oberti,118,Giulio Dainelli,-40.390312704213876
+79,Alessandro Oberti,125,Francesco Salmaso,-248.9279539144241
+79,Alessandro Oberti,139,Francesco Peroni,55.17742442061904
+80,Simone Masserini,78,Andrea Ghilardi,19.122542775292246
+80,Simone Masserini,79,Alessandro Oberti,-6.978568292196957
+80,Simone Masserini,82,Alessandro Vici,-90.74469574837244
+81,Giovanni Donghi,82,Alessandro Vici,-145.34574778830822
+82,Alessandro Vici,18,Federico Cima,26.187448012467158
+82,Alessandro Vici,29,Giorgio Mentasti,-80.88918178579398
+82,Alessandro Vici,31,Simone Pelizzola,-245.41490382848394
+82,Alessandro Vici,36,Alberto Bassi,31.17895301358019
+82,Alessandro Vici,77,Marco Giustetto,-106.34443558100448
+82,Alessandro Vici,78,Andrea Ghilardi,1.652409765291928
+82,Alessandro Vici,79,Alessandro Oberti,-173.196181821863
+82,Alessandro Vici,80,Simone Masserini,-14.674020571019971
+82,Alessandro Vici,84,Enrico Aloisi,25.490009841954514
+82,Alessandro Vici,85,Alessandro Rosa,-56.14739584882588
+82,Alessandro Vici,88,Michele De Rocco,-19.882546772810407
+82,Alessandro Vici,92,Damiano Tietto,13.142591484514634
+82,Alessandro Vici,94,Andrea Marchetti,-91.86134646076384
+82,Alessandro Vici,99,Massimiliano Viola,-58.95373436760429
+82,Alessandro Vici,100,Luca Marchesini,-74.23972140724713
+82,Alessandro Vici,104,Andrea Pizzolato,-94.46006718161404
+82,Alessandro Vici,105,Alessandro Rezzi,82.36539638887403
+82,Alessandro Vici,116,Giovanni Mecenero,65.89077341032848
+82,Alessandro Vici,118,Giulio Dainelli,-53.026034149657185
+82,Alessandro Vici,119,Matteo Barbon,283.7335204381364
+82,Alessandro Vici,125,Francesco Salmaso,-190.88966513701288
+82,Alessandro Vici,126,Alberto Gervani,127.04935789581289
+82,Alessandro Vici,139,Francesco Peroni,-134.4891590192666
+82,Alessandro Vici,146,Giovanni Gaio,-87.81203348416369
+82,Alessandro Vici,147,Giorgio Baglioni,124.92525539705548
+82,Alessandro Vici,149,Andrea Nalon,-250.0294845223618
+82,Alessandro Vici,168,Tiziana Eugenelo,62.625399252592175
+82,Alessandro Vici,170,Valentino Badalucco,-70.51712009203868
+82,Alessandro Vici,172,Luca Castenetto,-164.76299212002877
+82,Alessandro Vici,173,Alice Magnanini,-75.36735583705935
+82,Alessandro Vici,179,Daniele Bugatti,-73.91068400003603
+82,Alessandro Vici,185,Davide Sartore,-54.354798068032636
+83,Vittoria Ricciuti,31,Simone Pelizzola,-133.84950397964238
+83,Vittoria Ricciuti,82,Alessandro Vici,167.09189978332634
+84,Enrico Aloisi,77,Marco Giustetto,-18.895705778717677
+84,Enrico Aloisi,82,Alessandro Vici,9.892147450641371
+84,Enrico Aloisi,85,Alessandro Rosa,-46.89502898861202
+84,Enrico Aloisi,88,Michele De Rocco,-36.76093258719917
+84,Enrico Aloisi,92,Damiano Tietto,-85.00096629459188
+84,Enrico Aloisi,94,Andrea Marchetti,-41.45719402634058
+84,Enrico Aloisi,168,Tiziana Eugenelo,16.09350852113563
+85,Alessandro Rosa,18,Federico Cima,-22.222109180153495
+85,Alessandro Rosa,29,Giorgio Mentasti,-51.943138919028044
+85,Alessandro Rosa,31,Simone Pelizzola,-58.72265549731436
+85,Alessandro Rosa,33,Alessandro Fiorindo,-97.2679576577623
+85,Alessandro Rosa,36,Alberto Bassi,25.439964693624677
+85,Alessandro Rosa,77,Marco Giustetto,-39.21547605904994
+85,Alessandro Rosa,78,Andrea Ghilardi,35.528023417613134
+85,Alessandro Rosa,79,Alessandro Oberti,-188.824201779683
+85,Alessandro Rosa,82,Alessandro Vici,-156.05299271476633
+85,Alessandro Rosa,84,Enrico Aloisi,-106.60962673041524
+85,Alessandro Rosa,88,Michele De Rocco,-2.060954007566332
+85,Alessandro Rosa,92,Damiano Tietto,40.82626857987714
+85,Alessandro Rosa,94,Andrea Marchetti,-124.59630335415574
+85,Alessandro Rosa,99,Massimiliano Viola,-2.357058128352559
+85,Alessandro Rosa,100,Luca Marchesini,-48.75029537142913
+85,Alessandro Rosa,104,Andrea Pizzolato,14.13419410481102
+85,Alessandro Rosa,105,Alessandro Rezzi,16.403637512638383
+85,Alessandro Rosa,113,Cesare Maria Balzani,116.27119294680824
+85,Alessandro Rosa,116,Giovanni Mecenero,-110.48736421376195
+85,Alessandro Rosa,118,Giulio Dainelli,-223.29545145213078
+85,Alessandro Rosa,119,Matteo Barbon,-65.59529572876731
+85,Alessandro Rosa,125,Francesco Salmaso,-98.71222535934828
+85,Alessandro Rosa,138,Matteo Trevisan,-29.421788835634135
+85,Alessandro Rosa,139,Francesco Peroni,207.33365247542883
+85,Alessandro Rosa,149,Andrea Nalon,-10.367618626698548
+85,Alessandro Rosa,168,Tiziana Eugenelo,-92.77098155954373
+85,Alessandro Rosa,179,Daniele Bugatti,-274.6089706643567
+85,Alessandro Rosa,185,Davide Sartore,-65.88607465302027
+88,Michele De Rocco,84,Enrico Aloisi,-37.41281021646957
+88,Michele De Rocco,85,Alessandro Rosa,-15.603915759694587
+88,Michele De Rocco,92,Damiano Tietto,21.527102426669764
+91,Paolo Prenassi,33,Alessandro Fiorindo,-141.34759554259045
+92,Damiano Tietto,18,Federico Cima,49.01532268741957
+92,Damiano Tietto,29,Giorgio Mentasti,11.55493534314837
+92,Damiano Tietto,77,Marco Giustetto,18.820566349303263
+92,Damiano Tietto,78,Andrea Ghilardi,1.553175346700376
+92,Damiano Tietto,79,Alessandro Oberti,-260.1951147836837
+92,Damiano Tietto,82,Alessandro Vici,-289.73155843890925
+92,Damiano Tietto,84,Enrico Aloisi,-112.61534845574525
+92,Damiano Tietto,85,Alessandro Rosa,-92.20895977627403
+92,Damiano Tietto,88,Michele De Rocco,-88.89534279310698
+92,Damiano Tietto,94,Andrea Marchetti,15.997801123170362
+92,Damiano Tietto,99,Massimiliano Viola,-50.93064152466299
+92,Damiano Tietto,100,Luca Marchesini,11.806555754946853
+92,Damiano Tietto,104,Andrea Pizzolato,-148.9965635293143
+92,Damiano Tietto,113,Cesare Maria Balzani,54.545145093757604
+92,Damiano Tietto,116,Giovanni Mecenero,-174.14174514732784
+92,Damiano Tietto,118,Giulio Dainelli,24.095160097039102
+92,Damiano Tietto,119,Matteo Barbon,-44.98116985159268
+92,Damiano Tietto,125,Francesco Salmaso,-182.3833379029064
+92,Damiano Tietto,133,Chiara Fantin,39.85264130125538
+92,Damiano Tietto,139,Francesco Peroni,-107.25551193509762
+92,Damiano Tietto,149,Andrea Nalon,-29.11642603017288
+92,Damiano Tietto,168,Tiziana Eugenelo,-138.88831906845255
+92,Damiano Tietto,170,Valentino Badalucco,-227.36832221810494
+92,Damiano Tietto,185,Davide Sartore,-387.2124862029997
+94,Andrea Marchetti,29,Giorgio Mentasti,-48.660819656137406
+94,Andrea Marchetti,77,Marco Giustetto,-171.51641352791384
+94,Andrea Marchetti,78,Andrea Ghilardi,123.83999923381187
+94,Andrea Marchetti,79,Alessandro Oberti,-79.31209083746346
+94,Andrea Marchetti,82,Alessandro Vici,-92.95196643090951
+94,Andrea Marchetti,84,Enrico Aloisi,-18.081908353866076
+94,Andrea Marchetti,85,Alessandro Rosa,12.379060421991804
+94,Andrea Marchetti,88,Michele De Rocco,-27.150014497496674
+94,Andrea Marchetti,92,Damiano Tietto,-74.17965043895444
+94,Andrea Marchetti,99,Massimiliano Viola,-96.15442311014068
+94,Andrea Marchetti,100,Luca Marchesini,-17.240455496958027
+94,Andrea Marchetti,116,Giovanni Mecenero,-268.98213997114397
+94,Andrea Marchetti,125,Francesco Salmaso,-4.7508982093058805
+94,Andrea Marchetti,168,Tiziana Eugenelo,-37.80803749963235
+94,Andrea Marchetti,171,Tommaso Coppelli,-244.80318003223286
+94,Andrea Marchetti,185,Davide Sartore,-349.38269246669086
+99,Massimiliano Viola,18,Federico Cima,126.16001857550535
+99,Massimiliano Viola,29,Giorgio Mentasti,-9.018656149748928
+99,Massimiliano Viola,77,Marco Giustetto,-143.87160030471023
+99,Massimiliano Viola,78,Andrea Ghilardi,-17.732130823150722
+99,Massimiliano Viola,79,Alessandro Oberti,-158.84373328854798
+99,Massimiliano Viola,82,Alessandro Vici,-136.97620878541525
+99,Massimiliano Viola,84,Enrico Aloisi,-72.66042140779655
+99,Massimiliano Viola,85,Alessandro Rosa,115.89079960480979
+99,Massimiliano Viola,100,Luca Marchesini,-105.40044051552039
+99,Massimiliano Viola,103,Federico Pavone,262.3107232728042
+99,Massimiliano Viola,104,Andrea Pizzolato,-26.63267937265981
+99,Massimiliano Viola,105,Alessandro Rezzi,7.019203278696578
+99,Massimiliano Viola,113,Cesare Maria Balzani,66.15379033842574
+99,Massimiliano Viola,116,Giovanni Mecenero,53.94942910546535
+99,Massimiliano Viola,117,Alessandro Baravelli,104.94077521484704
+99,Massimiliano Viola,118,Giulio Dainelli,73.15136464923167
+99,Massimiliano Viola,119,Matteo Barbon,-74.63391904902603
+99,Massimiliano Viola,125,Francesco Salmaso,10.996709161797192
+99,Massimiliano Viola,149,Andrea Nalon,-100.9134846714661
+100,Luca Marchesini,18,Federico Cima,-58.62323915063556
+100,Luca Marchesini,37,Gabriele Manganelli,-168.99001645175073
+100,Luca Marchesini,77,Marco Giustetto,-47.91157813761948
+100,Luca Marchesini,78,Andrea Ghilardi,-6.396085936777275
+100,Luca Marchesini,79,Alessandro Oberti,-261.9122128457207
+100,Luca Marchesini,82,Alessandro Vici,-231.95270543882836
+100,Luca Marchesini,84,Enrico Aloisi,-128.15314955556863
+100,Luca Marchesini,85,Alessandro Rosa,-116.52812905677962
+100,Luca Marchesini,88,Michele De Rocco,21.985751622371794
+100,Luca Marchesini,92,Damiano Tietto,-46.132437036478656
+100,Luca Marchesini,94,Andrea Marchetti,86.75081986332326
+100,Luca Marchesini,97,Giuseppe di Fabio,143.08216526084647
+100,Luca Marchesini,98,Marco Zagaria,58.923454105054766
+100,Luca Marchesini,99,Massimiliano Viola,-136.09787666922907
+100,Luca Marchesini,103,Federico Pavone,96.30444324207728
+100,Luca Marchesini,104,Andrea Pizzolato,-37.94395492581418
+100,Luca Marchesini,105,Alessandro Rezzi,-3.7949164523755954
+100,Luca Marchesini,110,Elisa Ferrero,-15.27650885598115
+100,Luca Marchesini,113,Cesare Maria Balzani,-158.51441031972695
+100,Luca Marchesini,116,Giovanni Mecenero,-18.32711783109759
+100,Luca Marchesini,118,Giulio Dainelli,-95.3654877662446
+100,Luca Marchesini,119,Matteo Barbon,-46.61727935620211
+100,Luca Marchesini,125,Francesco Salmaso,-82.07586204687959
+100,Luca Marchesini,128,Luigi Steccanella,122.92216911556754
+100,Luca Marchesini,139,Francesco Peroni,-86.70818541427845
+100,Luca Marchesini,149,Andrea Nalon,-44.77660410985391
+100,Luca Marchesini,168,Tiziana Eugenelo,-262.27626602378547
+100,Luca Marchesini,170,Valentino Badalucco,-31.52798482577729
+100,Luca Marchesini,171,Tommaso Coppelli,-433.3217498845829
+100,Luca Marchesini,172,Luca Castenetto,-250.78951931211202
+100,Luca Marchesini,185,Davide Sartore,-59.65412864094267
+104,Andrea Pizzolato,77,Marco Giustetto,122.68672662594582
+104,Andrea Pizzolato,78,Andrea Ghilardi,228.64289146195955
+104,Andrea Pizzolato,79,Alessandro Oberti,-133.1235387846124
+104,Andrea Pizzolato,82,Alessandro Vici,-72.88009995013074
+104,Andrea Pizzolato,84,Enrico Aloisi,-36.40975660423784
+104,Andrea Pizzolato,85,Alessandro Rosa,-52.88436343140085
+104,Andrea Pizzolato,88,Michele De Rocco,99.66986087170207
+104,Andrea Pizzolato,98,Marco Zagaria,58.87925191102464
+104,Andrea Pizzolato,99,Massimiliano Viola,-116.85268602306996
+104,Andrea Pizzolato,100,Luca Marchesini,-19.853796017337466
+104,Andrea Pizzolato,103,Federico Pavone,72.01412511047783
+104,Andrea Pizzolato,105,Alessandro Rezzi,-53.7300086785563
+104,Andrea Pizzolato,113,Cesare Maria Balzani,-102.61415619584515
+104,Andrea Pizzolato,116,Giovanni Mecenero,9.220842167205227
+104,Andrea Pizzolato,118,Giulio Dainelli,113.92874872000917
+104,Andrea Pizzolato,119,Matteo Barbon,43.21323596927692
+104,Andrea Pizzolato,125,Francesco Salmaso,-143.9484827670034
+104,Andrea Pizzolato,133,Chiara Fantin,104.22444427649879
+104,Andrea Pizzolato,149,Andrea Nalon,-5.955952761680258
+104,Andrea Pizzolato,168,Tiziana Eugenelo,1.6666221345591894
+104,Andrea Pizzolato,185,Davide Sartore,-138.4565835162211
+105,Alessandro Rezzi,99,Massimiliano Viola,-64.31426009345746
+105,Alessandro Rezzi,100,Luca Marchesini,14.562594322475606
+105,Alessandro Rezzi,104,Andrea Pizzolato,167.13042714573442
+110,Elisa Ferrero,100,Luca Marchesini,108.75307712204264
+113,Cesare Maria Balzani,18,Federico Cima,68.65378437632562
+113,Cesare Maria Balzani,77,Marco Giustetto,90.68716643475871
+113,Cesare Maria Balzani,78,Andrea Ghilardi,171.29722332904254
+113,Cesare Maria Balzani,79,Alessandro Oberti,-70.94614396115884
+113,Cesare Maria Balzani,82,Alessandro Vici,-85.71159931891246
+113,Cesare Maria Balzani,84,Enrico Aloisi,-66.99860837016641
+113,Cesare Maria Balzani,85,Alessandro Rosa,-31.323763818891283
+113,Cesare Maria Balzani,88,Michele De Rocco,279.39843282986
+113,Cesare Maria Balzani,94,Andrea Marchetti,160.90799178909992
+113,Cesare Maria Balzani,99,Massimiliano Viola,35.90384359882796
+113,Cesare Maria Balzani,100,Luca Marchesini,-68.3787793254661
+113,Cesare Maria Balzani,104,Andrea Pizzolato,49.994823979508965
+113,Cesare Maria Balzani,114,Francesco Sitta,226.96627831726084
+113,Cesare Maria Balzani,116,Giovanni Mecenero,-49.34661993659418
+113,Cesare Maria Balzani,117,Alessandro Baravelli,72.90004393080073
+113,Cesare Maria Balzani,118,Giulio Dainelli,97.39126472904859
+113,Cesare Maria Balzani,119,Matteo Barbon,-32.23907737856205
+113,Cesare Maria Balzani,120,Vincenzo Sorrentino,-138.56638969631177
+113,Cesare Maria Balzani,125,Francesco Salmaso,15.826383790757454
+113,Cesare Maria Balzani,126,Alberto Gervani,-153.5413994568369
+113,Cesare Maria Balzani,139,Francesco Peroni,-75.5538885019369
+113,Cesare Maria Balzani,144,Lorenzo Catani,-82.64814718511448
+113,Cesare Maria Balzani,145,Chiara Garabello,-142.7450973803503
+113,Cesare Maria Balzani,149,Andrea Nalon,-1.9607993617958708
+113,Cesare Maria Balzani,168,Tiziana Eugenelo,-1.2222178571362312
+113,Cesare Maria Balzani,170,Valentino Badalucco,101.38501483104342
+113,Cesare Maria Balzani,171,Tommaso Coppelli,120.43176090104758
+113,Cesare Maria Balzani,185,Davide Sartore,56.95974961069789
+114,Francesco Sitta,82,Alessandro Vici,193.23447896589363
+114,Francesco Sitta,113,Cesare Maria Balzani,-60.226260648386315
+114,Francesco Sitta,116,Giovanni Mecenero,53.68103737084966
+114,Francesco Sitta,125,Francesco Salmaso,198.87158269127272
+114,Francesco Sitta,139,Francesco Peroni,387.9818142180933
+114,Francesco Sitta,168,Tiziana Eugenelo,287.0207740452585
+114,Francesco Sitta,218,Lorenzo Cafiero,214.3215069607311
+114,Francesco Sitta,231,Irene Bartalini,98.94699618230231
+114,Francesco Sitta,241,Sara Passudetti,-50.77793664846872
+115,Matteo Paradiso,82,Alessandro Vici,-106.0425075235834
+115,Matteo Paradiso,113,Cesare Maria Balzani,215.7008712242871
+115,Matteo Paradiso,116,Giovanni Mecenero,10.859790273871297
+115,Matteo Paradiso,118,Giulio Dainelli,-30.441455204506635
+115,Matteo Paradiso,119,Matteo Barbon,96.72966754418117
+115,Matteo Paradiso,125,Francesco Salmaso,-61.8600138687773
+115,Matteo Paradiso,149,Andrea Nalon,-16.54873487535263
+116,Giovanni Mecenero,82,Alessandro Vici,6.73635025108588
+116,Giovanni Mecenero,85,Alessandro Rosa,163.87143267712798
+116,Giovanni Mecenero,113,Cesare Maria Balzani,-120.04026772195638
+116,Giovanni Mecenero,118,Giulio Dainelli,148.90821390271034
+116,Giovanni Mecenero,119,Matteo Barbon,112.00109333665173
+116,Giovanni Mecenero,125,Francesco Salmaso,-305.29048359971137
+116,Giovanni Mecenero,168,Tiziana Eugenelo,-43.89082611613373
+118,Giulio Dainelli,29,Giorgio Mentasti,-31.818405341735858
+118,Giulio Dainelli,77,Marco Giustetto,-203.12848905192124
+118,Giulio Dainelli,78,Andrea Ghilardi,44.984808306999014
+118,Giulio Dainelli,79,Alessandro Oberti,-205.0823628506999
+118,Giulio Dainelli,82,Alessandro Vici,-74.13610755760045
+118,Giulio Dainelli,84,Enrico Aloisi,-22.948317549414952
+118,Giulio Dainelli,85,Alessandro Rosa,-3.385157689361524
+118,Giulio Dainelli,92,Damiano Tietto,-154.95003038176762
+118,Giulio Dainelli,99,Massimiliano Viola,-45.214861395699174
+118,Giulio Dainelli,100,Luca Marchesini,-11.995875517174763
+118,Giulio Dainelli,104,Andrea Pizzolato,8.45393761641697
+118,Giulio Dainelli,105,Alessandro Rezzi,163.88108978734175
+118,Giulio Dainelli,113,Cesare Maria Balzani,-40.99389943838274
+118,Giulio Dainelli,114,Francesco Sitta,-23.87271742429973
+118,Giulio Dainelli,115,Matteo Paradiso,-96.36907618768896
+118,Giulio Dainelli,116,Giovanni Mecenero,3.576874437272364
+118,Giulio Dainelli,119,Matteo Barbon,35.15789521445945
+118,Giulio Dainelli,120,Vincenzo Sorrentino,-89.80833854374865
+118,Giulio Dainelli,125,Francesco Salmaso,-32.528804453080994
+118,Giulio Dainelli,126,Alberto Gervani,130.3641713847741
+118,Giulio Dainelli,130,Nicolò Berdin,90.92636267534638
+118,Giulio Dainelli,133,Chiara Fantin,-43.367835497275436
+118,Giulio Dainelli,149,Andrea Nalon,136.9473103823198
+118,Giulio Dainelli,168,Tiziana Eugenelo,142.00799692813618
+118,Giulio Dainelli,185,Davide Sartore,-162.57838351070933
+119,Matteo Barbon,18,Federico Cima,-30.295535529628438
+119,Matteo Barbon,78,Andrea Ghilardi,-13.587032541892173
+119,Matteo Barbon,79,Alessandro Oberti,-154.94240022459684
+119,Matteo Barbon,82,Alessandro Vici,136.2425051676327
+119,Matteo Barbon,84,Enrico Aloisi,-220.31687420385293
+119,Matteo Barbon,85,Alessandro Rosa,88.58095720957365
+119,Matteo Barbon,99,Massimiliano Viola,-67.47313781566434
+119,Matteo Barbon,100,Luca Marchesini,235.6955192887298
+119,Matteo Barbon,103,Federico Pavone,-249.2380393220125
+119,Matteo Barbon,104,Andrea Pizzolato,147.98700360277846
+119,Matteo Barbon,113,Cesare Maria Balzani,73.4044092314846
+119,Matteo Barbon,115,Matteo Paradiso,191.27528380176207
+119,Matteo Barbon,116,Giovanni Mecenero,7.972238862492789
+119,Matteo Barbon,118,Giulio Dainelli,-92.81252095713015
+119,Matteo Barbon,125,Francesco Salmaso,113.61331458631224
+119,Matteo Barbon,126,Alberto Gervani,-9.023366603347789
+119,Matteo Barbon,133,Chiara Fantin,-242.41643855042375
+119,Matteo Barbon,149,Andrea Nalon,132.9776591523517
+120,Vincenzo Sorrentino,113,Cesare Maria Balzani,-9.538857806168657
+120,Vincenzo Sorrentino,116,Giovanni Mecenero,-82.27325488111286
+120,Vincenzo Sorrentino,125,Francesco Salmaso,153.40229830042637
+123,Leonardo Franchi,183,Wladimiro PiPPo Gradi,50.304471206008564
+123,Leonardo Franchi,223,Daniele De Pietri,118.59954875284694
+123,Leonardo Franchi,224,Elena Ghilardi,-17.265085842326176
+123,Leonardo Franchi,237,Pietro Ongaro,58.322885740956416
+123,Leonardo Franchi,240,Marco Locatelli,36.96230241272242
+125,Francesco Salmaso,78,Andrea Ghilardi,-1.1559544667355235
+125,Francesco Salmaso,82,Alessandro Vici,-179.27713132022197
+125,Francesco Salmaso,84,Enrico Aloisi,-238.91052034043983
+125,Francesco Salmaso,85,Alessandro Rosa,-96.57252106608937
+125,Francesco Salmaso,99,Massimiliano Viola,144.28612943748075
+125,Francesco Salmaso,100,Luca Marchesini,-15.144699824040174
+125,Francesco Salmaso,104,Andrea Pizzolato,22.057875929899193
+125,Francesco Salmaso,113,Cesare Maria Balzani,-73.91170070419126
+125,Francesco Salmaso,114,Francesco Sitta,90.04829872817888
+125,Francesco Salmaso,116,Giovanni Mecenero,-56.52127658028921
+125,Francesco Salmaso,117,Alessandro Baravelli,-34.533198867988304
+125,Francesco Salmaso,118,Giulio Dainelli,23.286776106527757
+125,Francesco Salmaso,119,Matteo Barbon,67.75366578122097
+125,Francesco Salmaso,126,Alberto Gervani,-12.485795972746494
+125,Francesco Salmaso,133,Chiara Fantin,112.62410029967411
+125,Francesco Salmaso,146,Giovanni Gaio,68.12660315231801
+125,Francesco Salmaso,149,Andrea Nalon,33.53947277822136
+125,Francesco Salmaso,168,Tiziana Eugenelo,124.51186969831039
+125,Francesco Salmaso,185,Davide Sartore,180.80311689697635
+126,Alberto Gervani,82,Alessandro Vici,169.43675606822555
+126,Alberto Gervani,84,Enrico Aloisi,100.67347838848073
+126,Alberto Gervani,100,Luca Marchesini,25.250743838861716
+126,Alberto Gervani,104,Andrea Pizzolato,-57.002688385771734
+126,Alberto Gervani,113,Cesare Maria Balzani,168.28447417594776
+126,Alberto Gervani,116,Giovanni Mecenero,-117.4833491046469
+126,Alberto Gervani,117,Alessandro Baravelli,40.23470805953938
+126,Alberto Gervani,118,Giulio Dainelli,-69.4622424649223
+126,Alberto Gervani,119,Matteo Barbon,72.65768620267916
+126,Alberto Gervani,125,Francesco Salmaso,-61.167833544861836
+126,Alberto Gervani,145,Chiara Garabello,15.481258740846803
+126,Alberto Gervani,168,Tiziana Eugenelo,20.71325649002556
+127,Giulia Brunori,18,Federico Cima,80.31760626432592
+127,Giulia Brunori,29,Giorgio Mentasti,120.42428863208282
+127,Giulia Brunori,77,Marco Giustetto,17.818891683346372
+127,Giulia Brunori,78,Andrea Ghilardi,51.429628666419305
+127,Giulia Brunori,79,Alessandro Oberti,-95.89337996765626
+127,Giulia Brunori,82,Alessandro Vici,-56.37717323565337
+127,Giulia Brunori,84,Enrico Aloisi,-101.67366811455538
+127,Giulia Brunori,85,Alessandro Rosa,194.17217715143641
+127,Giulia Brunori,92,Damiano Tietto,153.13593024255533
+127,Giulia Brunori,99,Massimiliano Viola,102.0789624842584
+127,Giulia Brunori,113,Cesare Maria Balzani,-154.44689394443213
+127,Giulia Brunori,116,Giovanni Mecenero,66.1398045439089
+127,Giulia Brunori,118,Giulio Dainelli,-10.602901972513425
+127,Giulia Brunori,119,Matteo Barbon,-84.90045632246533
+127,Giulia Brunori,125,Francesco Salmaso,-152.71388055621483
+127,Giulia Brunori,126,Alberto Gervani,274.60534583716804
+127,Giulia Brunori,185,Davide Sartore,92.05721274819916
+128,Luigi Steccanella,100,Luca Marchesini,80.19366938755968
+136,Michele Maserati,139,Francesco Peroni,113.33768295190815
+136,Michele Maserati,149,Andrea Nalon,301.2650882954106
+138,Matteo Trevisan,139,Francesco Peroni,-63.571112046690466
+138,Matteo Trevisan,144,Lorenzo Catani,128.1215384667165
+138,Matteo Trevisan,146,Giovanni Gaio,213.65418294680862
+138,Matteo Trevisan,149,Andrea Nalon,-7.136576964541662
+139,Francesco Peroni,144,Lorenzo Catani,141.6947677953332
+139,Francesco Peroni,149,Andrea Nalon,-89.45450849977613
+139,Francesco Peroni,157,Alessandro Valota,179.76483046529296
+141,Federico Giannini,114,Francesco Sitta,20.715286105692087
+141,Federico Giannini,138,Matteo Trevisan,41.248863883120976
+141,Federico Giannini,139,Francesco Peroni,143.49419817917575
+141,Federico Giannini,143,Lorenzo Callegaro,203.10268853110074
+141,Federico Giannini,144,Lorenzo Catani,82.96451763663579
+141,Federico Giannini,149,Andrea Nalon,-55.02874033252706
+141,Federico Giannini,157,Alessandro Valota,188.12706925857935
+141,Federico Giannini,168,Tiziana Eugenelo,-91.34717785715559
+141,Federico Giannini,172,Luca Castenetto,36.732103618241624
+141,Federico Giannini,179,Daniele Bugatti,-60.68753456261156
+141,Federico Giannini,183,Wladimiro PiPPo Gradi,87.08147100665997
+141,Federico Giannini,215,Leonardo Portolani Sgargi,-96.21073532163342
+141,Federico Giannini,218,Lorenzo Cafiero,123.37296867597536
+141,Federico Giannini,225,Simone Fisichella,191.30006207890227
+141,Federico Giannini,241,Sara Passudetti,147.496764329256
+141,Federico Giannini,266,Lorenzo Weiss,221.40594063438564
+141,Federico Giannini,276,Tobia Bizzaro,66.61338812090108
+143,Lorenzo Callegaro,82,Alessandro Vici,-80.67919319857693
+143,Lorenzo Callegaro,84,Enrico Aloisi,78.29363266094158
+143,Lorenzo Callegaro,85,Alessandro Rosa,81.49179909092699
+143,Lorenzo Callegaro,100,Luca Marchesini,108.17914002085949
+143,Lorenzo Callegaro,104,Andrea Pizzolato,-99.30424068388167
+143,Lorenzo Callegaro,114,Francesco Sitta,21.910920411714706
+143,Lorenzo Callegaro,116,Giovanni Mecenero,161.47853643687532
+143,Lorenzo Callegaro,125,Francesco Salmaso,-209.68585687028656
+143,Lorenzo Callegaro,134,Luca Islami,341.15523327214044
+143,Lorenzo Callegaro,136,Michele Maserati,-135.74658785000736
+143,Lorenzo Callegaro,139,Francesco Peroni,150.69327357972216
+143,Lorenzo Callegaro,144,Lorenzo Catani,167.16759592717983
+143,Lorenzo Callegaro,146,Giovanni Gaio,219.28058170423236
+143,Lorenzo Callegaro,149,Andrea Nalon,-37.87884728270446
+143,Lorenzo Callegaro,157,Alessandro Valota,75.03139931817675
+143,Lorenzo Callegaro,168,Tiziana Eugenelo,-45.91783677844847
+143,Lorenzo Callegaro,170,Valentino Badalucco,-37.58643520513882
+143,Lorenzo Callegaro,171,Tommaso Coppelli,-208.26409589459794
+143,Lorenzo Callegaro,172,Luca Castenetto,23.83334493990383
+143,Lorenzo Callegaro,174,Chiara Oliveri,93.12736536807085
+143,Lorenzo Callegaro,176,Sergio Mari,-159.70776387233497
+143,Lorenzo Callegaro,179,Daniele Bugatti,-41.17829032347373
+143,Lorenzo Callegaro,183,Wladimiro PiPPo Gradi,-41.26278081242119
+143,Lorenzo Callegaro,185,Davide Sartore,66.23758711122024
+143,Lorenzo Callegaro,193,Edoardo Bordon,-19.285020952268905
+143,Lorenzo Callegaro,215,Leonardo Portolani Sgargi,130.84523974075032
+143,Lorenzo Callegaro,218,Lorenzo Cafiero,254.45264234010747
+143,Lorenzo Callegaro,222,Giulio Verzeletti,-22.565440623614162
+143,Lorenzo Callegaro,223,Daniele De Pietri,98.02687589859548
+143,Lorenzo Callegaro,229,Elia Siviero,340.7350224064351
+143,Lorenzo Callegaro,231,Irene Bartalini,182.6496362273066
+143,Lorenzo Callegaro,237,Pietro Ongaro,-101.83440065876226
+143,Lorenzo Callegaro,241,Sara Passudetti,-122.1782858974209
+143,Lorenzo Callegaro,245,Francesca Ciocchi,104.97017031664521
+143,Lorenzo Callegaro,256,Maria Vittoria Chimetto,25.39666108273037
+143,Lorenzo Callegaro,258,Matteo Gianolla,17.116656272167877
+143,Lorenzo Callegaro,262,Riccardo Cescatti,157.11832121907958
+143,Lorenzo Callegaro,266,Lorenzo Weiss,271.4429970345259
+143,Lorenzo Callegaro,276,Tobia Bizzaro,62.28449513461396
+144,Lorenzo Catani,77,Marco Giustetto,-100.62328078342684
+144,Lorenzo Catani,78,Andrea Ghilardi,125.5278312102869
+144,Lorenzo Catani,82,Alessandro Vici,7.760945541703631
+144,Lorenzo Catani,84,Enrico Aloisi,-218.90758814697728
+144,Lorenzo Catani,85,Alessandro Rosa,320.63242412664664
+144,Lorenzo Catani,100,Luca Marchesini,-237.41476003266547
+144,Lorenzo Catani,116,Giovanni Mecenero,15.148990103042616
+144,Lorenzo Catani,118,Giulio Dainelli,170.63391089502323
+144,Lorenzo Catani,125,Francesco Salmaso,-101.87091360454714
+144,Lorenzo Catani,134,Luca Islami,94.39668098881074
+144,Lorenzo Catani,136,Michele Maserati,-42.38855267476034
+144,Lorenzo Catani,138,Matteo Trevisan,-97.24108874283874
+144,Lorenzo Catani,139,Francesco Peroni,-43.39539020257822
+144,Lorenzo Catani,145,Chiara Garabello,-36.236163428258955
+144,Lorenzo Catani,146,Giovanni Gaio,-11.948533596776688
+144,Lorenzo Catani,147,Giorgio Baglioni,-79.72051788691903
+144,Lorenzo Catani,149,Andrea Nalon,63.314312996823936
+144,Lorenzo Catani,157,Alessandro Valota,28.72828733464651
+144,Lorenzo Catani,168,Tiziana Eugenelo,-72.86890087210837
+144,Lorenzo Catani,170,Valentino Badalucco,47.57125980422913
+144,Lorenzo Catani,171,Tommaso Coppelli,-58.87268811716515
+144,Lorenzo Catani,172,Luca Castenetto,-195.49207036768894
+144,Lorenzo Catani,174,Chiara Oliveri,55.950078170759895
+144,Lorenzo Catani,179,Daniele Bugatti,60.62811671088403
+144,Lorenzo Catani,185,Davide Sartore,-158.93103085566065
+147,Giorgio Baglioni,77,Marco Giustetto,126.13892635875571
+147,Giorgio Baglioni,78,Andrea Ghilardi,104.60593526926797
+147,Giorgio Baglioni,79,Alessandro Oberti,-46.758531227208934
+147,Giorgio Baglioni,82,Alessandro Vici,-73.14251260217108
+147,Giorgio Baglioni,84,Enrico Aloisi,171.6979488645656
+147,Giorgio Baglioni,85,Alessandro Rosa,74.3560517534115
+147,Giorgio Baglioni,99,Massimiliano Viola,-105.30604784149413
+147,Giorgio Baglioni,100,Luca Marchesini,-130.7773800200882
+147,Giorgio Baglioni,116,Giovanni Mecenero,-202.3613848935962
+147,Giorgio Baglioni,125,Francesco Salmaso,28.466656749528436
+147,Giorgio Baglioni,136,Michele Maserati,10.303819009880748
+147,Giorgio Baglioni,138,Matteo Trevisan,-107.43929432106503
+147,Giorgio Baglioni,139,Francesco Peroni,125.71983061886034
+147,Giorgio Baglioni,141,Federico Giannini,158.86612931420532
+147,Giorgio Baglioni,143,Lorenzo Callegaro,-6.240416269125238
+147,Giorgio Baglioni,144,Lorenzo Catani,111.98619532314918
+147,Giorgio Baglioni,146,Giovanni Gaio,-91.82248577938125
+147,Giorgio Baglioni,149,Andrea Nalon,-13.576073675901826
+147,Giorgio Baglioni,157,Alessandro Valota,82.24513863594248
+147,Giorgio Baglioni,168,Tiziana Eugenelo,-106.95952684251272
+147,Giorgio Baglioni,170,Valentino Badalucco,-18.301124922642707
+147,Giorgio Baglioni,172,Luca Castenetto,161.34928098425115
+147,Giorgio Baglioni,179,Daniele Bugatti,160.19303783027806
+147,Giorgio Baglioni,185,Davide Sartore,-7.99331044769136
+149,Andrea Nalon,100,Luca Marchesini,143.49877156458945
+149,Andrea Nalon,116,Giovanni Mecenero,-191.78350968088023
+149,Andrea Nalon,168,Tiziana Eugenelo,-120.45137192497094
+157,Alessandro Valota,82,Alessandro Vici,-187.66622702693667
+157,Alessandro Valota,84,Enrico Aloisi,66.31834242561706
+157,Alessandro Valota,85,Alessandro Rosa,-104.04651157312243
+157,Alessandro Valota,116,Giovanni Mecenero,24.689980916760426
+157,Alessandro Valota,125,Francesco Salmaso,-129.64586722724792
+157,Alessandro Valota,136,Michele Maserati,-32.70443372458186
+157,Alessandro Valota,138,Matteo Trevisan,182.55448232995624
+157,Alessandro Valota,139,Francesco Peroni,42.98801621508527
+157,Alessandro Valota,141,Federico Giannini,-267.86508145305726
+157,Alessandro Valota,143,Lorenzo Callegaro,68.76504572242602
+157,Alessandro Valota,147,Giorgio Baglioni,-24.980791933839203
+157,Alessandro Valota,149,Andrea Nalon,59.49550717049345
+157,Alessandro Valota,168,Tiziana Eugenelo,-96.8557225067261
+157,Alessandro Valota,170,Valentino Badalucco,76.23403519532516
+157,Alessandro Valota,171,Tommaso Coppelli,-15.514994706583634
+157,Alessandro Valota,179,Daniele Bugatti,109.64802217482917
+157,Alessandro Valota,183,Wladimiro PiPPo Gradi,37.207192577116864
+157,Alessandro Valota,185,Davide Sartore,-247.0315647680582
+157,Alessandro Valota,215,Leonardo Portolani Sgargi,-145.5957241349738
+157,Alessandro Valota,218,Lorenzo Cafiero,-302.2965484818857
+157,Alessandro Valota,222,Giulio Verzeletti,-85.53903422961145
+157,Alessandro Valota,225,Simone Fisichella,124.73733012606439
+157,Alessandro Valota,231,Irene Bartalini,8.426473922005172
+157,Alessandro Valota,237,Pietro Ongaro,-257.2243767495313
+157,Alessandro Valota,240,Marco Locatelli,-91.83328503563096
+157,Alessandro Valota,241,Sara Passudetti,-53.654020371561046
+157,Alessandro Valota,245,Francesca Ciocchi,311.63093686493437
+157,Alessandro Valota,266,Lorenzo Weiss,-197.9164414371162
+164,Chiara Novelli,143,Lorenzo Callegaro,218.6315373107705
+164,Chiara Novelli,231,Irene Bartalini,364.1507394947767
+169,Pietro Marinoni,168,Tiziana Eugenelo,-60.98225236624585
+169,Pietro Marinoni,170,Valentino Badalucco,138.19742940345398
+169,Pietro Marinoni,171,Tommaso Coppelli,62.4245457855743
+169,Pietro Marinoni,172,Luca Castenetto,53.16636343645311
+169,Pietro Marinoni,179,Daniele Bugatti,160.53897421242016
+169,Pietro Marinoni,183,Wladimiro PiPPo Gradi,-204.87277583854532
+169,Pietro Marinoni,185,Davide Sartore,-53.08707429806377
+169,Pietro Marinoni,193,Edoardo Bordon,273.85850730583866
+170,Valentino Badalucco,139,Francesco Peroni,80.95870512501365
+170,Valentino Badalucco,168,Tiziana Eugenelo,-14.849877085416457
+170,Valentino Badalucco,169,Pietro Marinoni,64.24492801254465
+170,Valentino Badalucco,171,Tommaso Coppelli,-105.30086090349067
+170,Valentino Badalucco,172,Luca Castenetto,-299.2690939935706
+170,Valentino Badalucco,174,Chiara Oliveri,-220.64786244889842
+170,Valentino Badalucco,179,Daniele Bugatti,43.01344878750606
+170,Valentino Badalucco,183,Wladimiro PiPPo Gradi,53.65745174302162
+170,Valentino Badalucco,185,Davide Sartore,78.93319309144385
+170,Valentino Badalucco,215,Leonardo Portolani Sgargi,117.62136328941676
+170,Valentino Badalucco,218,Lorenzo Cafiero,329.06631058197524
+170,Valentino Badalucco,223,Daniele De Pietri,406.5057534066011
+170,Valentino Badalucco,225,Simone Fisichella,150.89891548132346
+170,Valentino Badalucco,231,Irene Bartalini,126.16142941580765
+170,Valentino Badalucco,245,Francesca Ciocchi,332.43627572904967
+170,Valentino Badalucco,276,Tobia Bizzaro,357.1466408392384
+171,Tommaso Coppelli,82,Alessandro Vici,-154.59976457734712
+171,Tommaso Coppelli,85,Alessandro Rosa,104.99294993372524
+171,Tommaso Coppelli,116,Giovanni Mecenero,-2.0243019496764463
+171,Tommaso Coppelli,134,Luca Islami,-109.81036218694722
+171,Tommaso Coppelli,168,Tiziana Eugenelo,-165.89703877074854
+171,Tommaso Coppelli,170,Valentino Badalucco,49.52140482634127
+171,Tommaso Coppelli,172,Luca Castenetto,-59.894710442719074
+171,Tommaso Coppelli,173,Alice Magnanini,131.94666906852498
+171,Tommaso Coppelli,174,Chiara Oliveri,53.29098599925671
+171,Tommaso Coppelli,176,Sergio Mari,-42.99423220258125
+171,Tommaso Coppelli,179,Daniele Bugatti,8.59588697184096
+171,Tommaso Coppelli,183,Wladimiro PiPPo Gradi,-1.1436726784750766
+171,Tommaso Coppelli,185,Davide Sartore,7.885316292900158
+171,Tommaso Coppelli,186,Valerio Cipriani,90.58985018420336
+171,Tommaso Coppelli,193,Edoardo Bordon,141.56617317520409
+171,Tommaso Coppelli,215,Leonardo Portolani Sgargi,-222.71022500577962
+171,Tommaso Coppelli,218,Lorenzo Cafiero,-109.11870956748629
+171,Tommaso Coppelli,231,Irene Bartalini,-115.65877655854531
+171,Tommaso Coppelli,241,Sara Passudetti,87.13040749780293
+171,Tommaso Coppelli,245,Francesca Ciocchi,-47.62068077630075
+172,Luca Castenetto,82,Alessandro Vici,-56.05721910843777
+172,Luca Castenetto,139,Francesco Peroni,19.20834673642636
+172,Luca Castenetto,168,Tiziana Eugenelo,-64.97783318998596
+172,Luca Castenetto,170,Valentino Badalucco,-26.23686901831338
+172,Luca Castenetto,171,Tommaso Coppelli,109.19649594252401
+172,Luca Castenetto,173,Alice Magnanini,-39.818830293588455
+172,Luca Castenetto,174,Chiara Oliveri,152.4828616143063
+172,Luca Castenetto,179,Daniele Bugatti,16.92978239735049
+172,Luca Castenetto,183,Wladimiro PiPPo Gradi,-119.58436489289515
+172,Luca Castenetto,185,Davide Sartore,46.11194928067298
+172,Luca Castenetto,215,Leonardo Portolani Sgargi,169.87975222093576
+172,Luca Castenetto,220,Alice Drera,-136.74764941809713
+172,Luca Castenetto,241,Sara Passudetti,-220.68198186094918
+174,Chiara Oliveri,193,Edoardo Bordon,-143.25985855594155
+175,Elena Cristea,174,Chiara Oliveri,111.71826643361925
+176,Sergio Mari,168,Tiziana Eugenelo,-121.19924512424377
+176,Sergio Mari,171,Tommaso Coppelli,-213.62691904852002
+176,Sergio Mari,193,Edoardo Bordon,182.51223910138566
+177,Pietro Marchesani,134,Luca Islami,-28.877885406224685
+177,Pietro Marchesani,174,Chiara Oliveri,257.7787703325977
+177,Pietro Marchesani,193,Edoardo Bordon,89.39876925042554
+179,Daniele Bugatti,139,Francesco Peroni,64.00727267563347
+179,Daniele Bugatti,168,Tiziana Eugenelo,-33.89081697062854
+179,Daniele Bugatti,170,Valentino Badalucco,-62.07672239316814
+179,Daniele Bugatti,172,Luca Castenetto,9.606560044766159
+179,Daniele Bugatti,173,Alice Magnanini,141.0828724885026
+179,Daniele Bugatti,183,Wladimiro PiPPo Gradi,-36.5529393756539
+179,Daniele Bugatti,185,Davide Sartore,-55.280582661367575
+179,Daniele Bugatti,228,Camilla Toniolo,204.5920953160955
+179,Daniele Bugatti,237,Pietro Ongaro,177.62250269274725
+179,Daniele Bugatti,245,Francesca Ciocchi,-240.75753589261038
+181,Fabio Cimino,134,Luca Islami,-30.813108320217626
+181,Fabio Cimino,168,Tiziana Eugenelo,-74.46228251566617
+181,Fabio Cimino,170,Valentino Badalucco,205.8546899507395
+181,Fabio Cimino,171,Tommaso Coppelli,55.7781472057142
+181,Fabio Cimino,179,Daniele Bugatti,-34.88725273293874
+181,Fabio Cimino,185,Davide Sartore,89.80997491454463
+181,Fabio Cimino,186,Valerio Cipriani,-24.93510707953673
+183,Wladimiro PiPPo Gradi,168,Tiziana Eugenelo,-59.692966255689505
+183,Wladimiro PiPPo Gradi,170,Valentino Badalucco,-48.08045328941816
+183,Wladimiro PiPPo Gradi,171,Tommaso Coppelli,-145.88358525023511
+183,Wladimiro PiPPo Gradi,172,Luca Castenetto,175.52252900725472
+183,Wladimiro PiPPo Gradi,179,Daniele Bugatti,-40.85921409122698
+183,Wladimiro PiPPo Gradi,185,Davide Sartore,75.34063081679537
+183,Wladimiro PiPPo Gradi,186,Valerio Cipriani,-190.37891958051694
+183,Wladimiro PiPPo Gradi,215,Leonardo Portolani Sgargi,217.7988805274309
+183,Wladimiro PiPPo Gradi,218,Lorenzo Cafiero,-29.944085114188596
+183,Wladimiro PiPPo Gradi,225,Simone Fisichella,-29.884369494011125
+183,Wladimiro PiPPo Gradi,231,Irene Bartalini,113.25343842782526
+183,Wladimiro PiPPo Gradi,240,Marco Locatelli,269.9595846289716
+185,Davide Sartore,118,Giulio Dainelli,96.3410469339087
+185,Davide Sartore,133,Chiara Fantin,180.2974213429671
+185,Davide Sartore,168,Tiziana Eugenelo,-49.118501456490904
+185,Davide Sartore,170,Valentino Badalucco,-91.94804950515194
+185,Davide Sartore,172,Luca Castenetto,-50.36087399368392
+185,Davide Sartore,173,Alice Magnanini,48.257477763314135
+185,Davide Sartore,179,Daniele Bugatti,-97.43804454628791
+185,Davide Sartore,183,Wladimiro PiPPo Gradi,26.41361949545781
+185,Davide Sartore,241,Sara Passudetti,68.92693855944398
+190,Yun Zhang,171,Tommaso Coppelli,-246.25654565106498
+190,Yun Zhang,174,Chiara Oliveri,-25.13529947726522
+190,Yun Zhang,176,Sergio Mari,299.38990941749364
+190,Yun Zhang,193,Edoardo Bordon,131.96149491917828
+215,Leonardo Portolani Sgargi,114,Francesco Sitta,108.96261463194595
+215,Leonardo Portolani Sgargi,139,Francesco Peroni,47.46030896558784
+215,Leonardo Portolani Sgargi,168,Tiziana Eugenelo,-32.89094752098236
+215,Leonardo Portolani Sgargi,179,Daniele Bugatti,-168.67397706236957
+215,Leonardo Portolani Sgargi,183,Wladimiro PiPPo Gradi,44.24282168278076
+215,Leonardo Portolani Sgargi,218,Lorenzo Cafiero,-16.734727996605162
+215,Leonardo Portolani Sgargi,224,Elena Ghilardi,321.8864851675814
+215,Leonardo Portolani Sgargi,225,Simone Fisichella,108.65806067322895
+215,Leonardo Portolani Sgargi,231,Irene Bartalini,127.36860215476624
+215,Leonardo Portolani Sgargi,237,Pietro Ongaro,-58.6576747816641
+215,Leonardo Portolani Sgargi,240,Marco Locatelli,-205.08378050301653
+215,Leonardo Portolani Sgargi,241,Sara Passudetti,-222.4922447509168
+215,Leonardo Portolani Sgargi,258,Matteo Gianolla,-55.604279016091
+219,Alice Marchetti,239,Chiara Coianiz,-68.68383562581187
+222,Giulio Verzeletti,157,Alessandro Valota,25.09907493694312
+222,Giulio Verzeletti,168,Tiziana Eugenelo,-30.34401495296885
+222,Giulio Verzeletti,172,Luca Castenetto,-239.0518346527216
+222,Giulio Verzeletti,183,Wladimiro PiPPo Gradi,157.3792119818776
+222,Giulio Verzeletti,215,Leonardo Portolani Sgargi,15.629080913235427
+222,Giulio Verzeletti,218,Lorenzo Cafiero,-223.23590200359348
+222,Giulio Verzeletti,220,Alice Drera,-12.558446397725954
+222,Giulio Verzeletti,223,Daniele De Pietri,-149.3281694932808
+222,Giulio Verzeletti,224,Elena Ghilardi,-49.82846188623372
+222,Giulio Verzeletti,228,Camilla Toniolo,20.202375918711695
+222,Giulio Verzeletti,231,Irene Bartalini,1.6682369372663342
+222,Giulio Verzeletti,237,Pietro Ongaro,103.20373820879527
+222,Giulio Verzeletti,240,Marco Locatelli,38.85431509349504
+222,Giulio Verzeletti,241,Sara Passudetti,-101.45477252214398
+223,Daniele De Pietri,139,Francesco Peroni,120.26191959729488
+223,Daniele De Pietri,168,Tiziana Eugenelo,-105.40832495247814
+223,Daniele De Pietri,172,Luca Castenetto,93.31181196902864
+223,Daniele De Pietri,183,Wladimiro PiPPo Gradi,-200.5147909965313
+223,Daniele De Pietri,215,Leonardo Portolani Sgargi,62.83966375485619
+223,Daniele De Pietri,218,Lorenzo Cafiero,89.16062742217461
+223,Daniele De Pietri,220,Alice Drera,199.02426043277953
+223,Daniele De Pietri,224,Elena Ghilardi,-49.89042428528402
+223,Daniele De Pietri,225,Simone Fisichella,71.20014605384708
+223,Daniele De Pietri,237,Pietro Ongaro,47.64166183734338
+223,Daniele De Pietri,238,Cecilia Svegliado,15.646676604543442
+223,Daniele De Pietri,240,Marco Locatelli,56.78087551348251
+223,Daniele De Pietri,241,Sara Passudetti,35.71140082642511
+223,Daniele De Pietri,258,Matteo Gianolla,78.4156854178282
+223,Daniele De Pietri,276,Tobia Bizzaro,290.9352062102357
+225,Simone Fisichella,168,Tiziana Eugenelo,-49.07387706033707
+225,Simone Fisichella,183,Wladimiro PiPPo Gradi,59.46815518353643
+225,Simone Fisichella,215,Leonardo Portolani Sgargi,-38.071110172742266
+225,Simone Fisichella,218,Lorenzo Cafiero,38.80915107013688
+225,Simone Fisichella,223,Daniele De Pietri,111.462935787185
+225,Simone Fisichella,224,Elena Ghilardi,229.22626285892548
+225,Simone Fisichella,231,Irene Bartalini,127.55032367487168
+225,Simone Fisichella,240,Marco Locatelli,250.231182305041
+225,Simone Fisichella,241,Sara Passudetti,-69.7367207006819
+228,Camilla Toniolo,183,Wladimiro PiPPo Gradi,88.53942865314669
+228,Camilla Toniolo,229,Elia Siviero,-34.746920943312055
+228,Camilla Toniolo,233,Emilia Cipriano,21.631083174803145
+228,Camilla Toniolo,245,Francesca Ciocchi,30.892734291229555
+231,Irene Bartalini,114,Francesco Sitta,159.71548219178902
+231,Irene Bartalini,168,Tiziana Eugenelo,6.370688415670015
+231,Irene Bartalini,183,Wladimiro PiPPo Gradi,-40.48226112722802
+231,Irene Bartalini,241,Sara Passudetti,52.7889346123581
+232,Stefano Casadio,168,Tiziana Eugenelo,124.95379312891362
+232,Stefano Casadio,228,Camilla Toniolo,79.09632551191031
+232,Stefano Casadio,229,Elia Siviero,-69.78857761461563
+232,Stefano Casadio,233,Emilia Cipriano,-75.76091650445034
+232,Stefano Casadio,237,Pietro Ongaro,-289.06506625054374
+232,Stefano Casadio,245,Francesca Ciocchi,-39.055639652142006
+233,Emilia Cipriano,229,Elia Siviero,274.7663731939268
+237,Pietro Ongaro,139,Francesco Peroni,134.96978005606104
+237,Pietro Ongaro,183,Wladimiro PiPPo Gradi,105.95031570797026
+237,Pietro Ongaro,218,Lorenzo Cafiero,-84.12739539663676
+237,Pietro Ongaro,224,Elena Ghilardi,-60.1770842186986
+237,Pietro Ongaro,228,Camilla Toniolo,19.759378768656177
+237,Pietro Ongaro,229,Elia Siviero,-4.742293610518795
+237,Pietro Ongaro,233,Emilia Cipriano,-127.76629325733006
+237,Pietro Ongaro,245,Francesca Ciocchi,-153.70116336385698
+240,Marco Locatelli,168,Tiziana Eugenelo,-154.03587724081723
+240,Marco Locatelli,183,Wladimiro PiPPo Gradi,-62.361314618528446
+240,Marco Locatelli,215,Leonardo Portolani Sgargi,92.28030074893086
+240,Marco Locatelli,218,Lorenzo Cafiero,222.02861496025463
+240,Marco Locatelli,222,Giulio Verzeletti,-63.954490048954554
+240,Marco Locatelli,223,Daniele De Pietri,64.54640485184478
+240,Marco Locatelli,224,Elena Ghilardi,44.99693676693837
+240,Marco Locatelli,225,Simone Fisichella,106.66323340375743
+240,Marco Locatelli,231,Irene Bartalini,325.35056778609453
+241,Sara Passudetti,179,Daniele Bugatti,19.80457985260838
+245,Francesca Ciocchi,228,Camilla Toniolo,-97.11986959105832
+245,Francesca Ciocchi,229,Elia Siviero,137.1113102166135
+263,Ilaria Santangelo,265,Emma Negri,-56.96876969926136
+266,Lorenzo Weiss,258,Matteo Gianolla,401.74716247322
+266,Lorenzo Weiss,275,Edoardo Salmasi,50.5003784499482
+266,Lorenzo Weiss,276,Tobia Bizzaro,215.56463211467724
+266,Lorenzo Weiss,280,Stefano Di Iulio,-197.43743652098047
+272,Demetrio Campolo,183,Wladimiro PiPPo Gradi,-66.4415635868492
+272,Demetrio Campolo,266,Lorenzo Weiss,59.710041604705836
+272,Demetrio Campolo,275,Edoardo Salmasi,13.766393533908204
+272,Demetrio Campolo,276,Tobia Bizzaro,48.04632713651503
+272,Demetrio Campolo,278,Raffaele Buonincontri,-0.7182029047306977
+274,Paolo Strenghetto,262,Riccardo Cescatti,96.41724530549155
+274,Paolo Strenghetto,276,Tobia Bizzaro,195.54418473860042
+275,Edoardo Salmasi,258,Matteo Gianolla,-48.52458673579426
+275,Edoardo Salmasi,262,Riccardo Cescatti,163.72741561618494
+275,Edoardo Salmasi,276,Tobia Bizzaro,-296.1563954351442
+275,Edoardo Salmasi,278,Raffaele Buonincontri,77.0955504941209
+275,Edoardo Salmasi,280,Stefano Di Iulio,156.32699798643986
+279,Pierfrancesco Veronesi,278,Raffaele Buonincontri,17.70284965621067
+279,Pierfrancesco Veronesi,280,Stefano Di Iulio,67.95504247930016
+280,Stefano Di Iulio,262,Riccardo Cescatti,24.1094437680722
+280,Stefano Di Iulio,276,Tobia Bizzaro,78.55538311240251
+280,Stefano Di Iulio,278,Raffaele Buonincontri,4.426211853669161
+286,Matteo Baldelli,183,Wladimiro PiPPo Gradi,13.260526936838255
+286,Matteo Baldelli,262,Riccardo Cescatti,-3.8064956839525266
+286,Matteo Baldelli,276,Tobia Bizzaro,-27.432770269503667
+286,Matteo Baldelli,280,Stefano Di Iulio,43.97389154091289
